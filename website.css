@@ -1,0 +1,16 @@
+body{
+    background-image: url("gradient.png");
+}
+div{
+    color:antiquewhite;
+}
+button{
+    background-color: magenta;
+    color: antiquewhite;
+}
+h1{
+    color:antiquewhite;
+}
+p{
+    color:antiquewhite;
+}
